@@ -1,0 +1,19 @@
+[
+  {
+    "name": "OTTAWA",
+    "latitude": 45.4215,
+    "longitude": -75.6972
+  }, {
+    "name": "MOSCOW",
+    "latitude": 55.7558,
+    "longitude": 37.6173
+  }, {
+    "name": "TOKYO",
+    "latitude": 35.6762,
+    "longitude": 139.6503
+  }, {
+    "name": "Woodbridge, NJ",
+    "latitude": 40.5576,
+    "longitude": -74.2846
+  }
+]
